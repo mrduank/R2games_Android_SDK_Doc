@@ -108,7 +108,24 @@
 
 ## 国内SDK <a id="cn_sdk"></a>
 
-* [Untitled](cn_sdk/untitled.md)
+* [1.集成开发配置](cn_sdk/untitled/README.md)
+  * [1.1导入库](cn_sdk/untitled/1.1-dao-ru-ku.md)
+  * [1.2 配置权限](cn_sdk/untitled/1.2-pei-zhi-quan-xian.md)
+  * [1.3 配置meta-data](cn_sdk/untitled/1.3-pei-zhi-metadata.md)
+  * [1.4 配置微信支付（必须）](cn_sdk/untitled/1.4-pei-zhi-wei-xin-zhi-fu-bi-xu.md)
+  * [1.5 配置微信登录（必须）](cn_sdk/untitled/1.5-pei-zhi-wei-xin-deng-lu-bi-xu.md)
+  * [1.6 配置QQ登录（必须）](cn_sdk/untitled/1.6-pei-zhi-qq-deng-lu-bi-xu.md)
+* [2.RNSDK API介绍](cn_sdk/2.rnsdk-api-jie-shao/README.md)
+  * [2.1 RNSDK初始化接口（必须接入）](cn_sdk/2.rnsdk-api-jie-shao/2.1-rnsdk-chu-shi-hua-jie-kou-bi-xu-jie-ru.md)
+  * [2.2 RNSDK请求READ\_PHONE\_STATE权限接口（可选接入）](cn_sdk/2.rnsdk-api-jie-shao/2.2-rnsdk-qing-qiu-readphonestate-quan-xian-jie-kou-ke-xuan-jie-ru.md)
+  * [2.3 RNSDK用户接口](cn_sdk/2.rnsdk-api-jie-shao/2.3-rnsdk-yong-hu-jie-kou.md)
+  * [2.4支付接口](cn_sdk/2.rnsdk-api-jie-shao/2.4-zhi-fu-jie-kou.md)
+  * [2.5 RNSDK数据打点接口（可选接入）](cn_sdk/2.rnsdk-api-jie-shao/2.5-rnsdk-shu-ju-da-dian-jie-kou-ke-xuan-jie-ru.md)
+  * [2.6 生命周期相关接口（必须接入）](cn_sdk/2.rnsdk-api-jie-shao/2.6-sheng-ming-zhou-qi-xiang-guan-jie-kou-bi-xu-jie-ru.md)
+  * [2.7 游戏退出接口（必须接入）](cn_sdk/2.rnsdk-api-jie-shao/2.7-you-xi-tui-chu-jie-kou-bi-xu-jie-ru.md)
+* [3.Helpshift客服系统接入（可选）](cn_sdk/3.helpshift-ke-fu-xi-tong-jie-ru-ke-xuan.md)
+* [4.第三方广告数据打点API接入（可选）](cn_sdk/4.-di-san-fang-guang-gao-shu-ju-da-dian-api-jie-ru-ke-xuan.md)
+* [5. SDK功能接口接入（可选）](cn_sdk/5.-sdk-gong-neng-jie-kou-jie-ru-ke-xuan.md)
 
 ## 广州SDK
 
